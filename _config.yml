@@ -1,0 +1,23 @@
+name: ad3ism
+favicon: null
+layout_spectrum: 0.7668562503531575
+typography_spectrum: 0.9225880436133593
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6418704406823963
+  lightness: 0.3432280474808067
+  saturation: 0.7471419596113265
+  rhythmicContrast: 0.5783107492607087
+purpose: []
